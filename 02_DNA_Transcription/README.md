@@ -18,8 +18,7 @@ the basis for how genetic information flows from DNA to RNA to protein
 (the central dogma of molecular biology), and it is one of the most 
 fundamental sequence transformations in bioinformatics pipelines.
 
-## Problem Statement
-
+##problem statement
 Given a DNA string of length at most 1000 nucleotides, return the 
 transcribed RNA string by replacing every occurrence of T with U.
 
